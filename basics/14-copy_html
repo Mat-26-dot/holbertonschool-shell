@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u /tmp/test_html/*.html /tmp/ ls -l --time-style='''+''' /tmp/*.html
+cp -u *.html ../

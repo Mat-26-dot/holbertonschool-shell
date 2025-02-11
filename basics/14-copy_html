@@ -1,2 +1,2 @@
 #!/bin/bash
-cp pwd .. .hidden/.html
+cp -u /tmp/test_html/*.html /tmp/ ; ls -l --time-style='''+''' /tmp/*.html

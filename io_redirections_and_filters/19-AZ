@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "z" "e"
+echo "A c" | tr 'Ac'

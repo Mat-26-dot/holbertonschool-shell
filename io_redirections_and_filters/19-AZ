@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "z" "e"
+grep "z" "e"

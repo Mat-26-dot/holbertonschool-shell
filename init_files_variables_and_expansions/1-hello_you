@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv current_user "hello user"
+echo -e "current user \hello user"
